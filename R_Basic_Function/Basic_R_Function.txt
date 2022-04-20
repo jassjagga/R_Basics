@@ -1,0 +1,4 @@
+1. > class() <- class function helps us determine the type of an object.
+ eg <-  a<- 2
+       > class(a)
+       [1] "numric"
