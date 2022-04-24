@@ -1,10 +1,21 @@
- class() <- class function helps us determine the type of an object.
+class() <- class function helps us determine the type of an object.
        eg:- >  a <- 2
             > class(a)
               [1] "numric"
+              
 str() <- To find out more about Object. The function str() is used. which stands for str=> structure
        eg:- > str(murders)
             > {
             Will get the whole structure of the murders data set
              }
-Names() <- 
+    
+head() - This fuction will print the top six Rows of the object
+
+$ = its called the Accessor
+
+To Access the variables from the colums from the object
+       eg: - murders$population
+          {       
+             
+              }
+Names() <-- It will tells the names of the colnums in a object.
