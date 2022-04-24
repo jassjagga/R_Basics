@@ -19,3 +19,20 @@ To Access the variables from the colums from the object
              
               }
 Names() <-- It will tells the names of the colnums in a object.
+         eg<- names(murders)
+          [1]____
+          [2]____
+          [3]____
+
+length(pop)
+        [1] 51 
+        
+Logical Vectors- when vector either True or False 
+   eg:- 
+        z<- 3==2 
+        > z
+        [1] False
+        
+Factors - Factors are used to store categorical data
+  like east,west,south, north  etc
+  
