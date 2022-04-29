@@ -24,6 +24,7 @@ Names() <-- It will tells the names of the colnums in a object.
           [2]____
           [3]____
 
+
 length(pop)
         [1] 51 
         
