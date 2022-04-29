@@ -36,3 +36,4 @@ Logical Vectors- when vector either True or False
 Factors - Factors are used to store categorical data
   like east,west,south, north  etc
   
+  
