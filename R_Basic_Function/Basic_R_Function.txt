@@ -18,6 +18,7 @@ To Access the variables from the colums from the object
           {       
              
               }
+
 Names() <-- It will tells the names of the colnums in a object.
          eg<- names(murders)
           [1]____
