@@ -33,6 +33,7 @@ Logical Vectors- when vector either True or False
         z<- 3==2 
         > z
         [1] False
-        
+    
+    
 Factors - Factors are used to store categorical data
   like east,west,south, north  etc
